@@ -1,0 +1,35 @@
+.btn {
+    color: #E3FBFF;
+    border-radius: 4px;
+    background: #6B6AE2;
+    border: none;
+    outline: none;
+    transition: all 0.3s ease-in-out;
+    cursor: pointer;
+    padding: 0 5px;
+}
+
+.btn:hover{
+    transition: all 0.3s ease-in-out;
+    background: #E3FBFF;
+    color:#000;
+}
+
+.btn:active {
+    transform: scale(0.98);
+    box-shadow: 3px 2px 22px 1px rgba(0, 0, 0, 0.24);
+}
+
+.btn-0 {
+    display: none;
+}
+
+.btn-1 {
+    width: 90px;
+    height: 35px;
+}
+
+.btn-2 {
+    width: 125px;
+    height: 40px;
+}

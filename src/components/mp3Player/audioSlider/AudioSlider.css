@@ -1,0 +1,48 @@
+/*.progressbar-container{*/
+/*    width: 150px;*/
+/*    height: 100%;*/
+/*    padding: 0.6rem 0;*/
+
+/*    margin-bottom: 1rem;*/
+/*    border: red 1px solid;*/
+/*}*/
+
+/*.progress-div{*/
+/*    width: 100%;*/
+/*    height: 0.3rem;*/
+/*    box-shadow: 0 1px 2px rgba(0,0,0,0.07), 0 2px 4px rgba(0,0,0,0.07),*/
+/*    0 4px 8px rgba(0,0,0,0.07), 0 8px 16px rgba(0,0,0,0.07),*/
+/*    0 16px 32px rgba(0,0,0,0.07), 0 32px 64px rgba(0,0,0,0.07);*/
+/*    background-color: white;*/
+/*    border-radius: 4em;*/
+/*    position: relative;*/
+/*    margin-top: 0.5rem;*/
+/*    transition: width 1s linear;*/
+/*    -moz-transition: width 1s linear;*/
+/*    -o-transition: width 1s linear;*/
+/*    -webkit-transition: width 1s linear;*/
+/*    cursor: pointer;*/
+/*    -webkit-appearance: none;*/
+/*    appearance: none;*/
+/*}*/
+
+/*.progress {*/
+/*    position:absolute;*/
+/*    top:0;*/
+/*    left: 0;*/
+/*    height: 100%;*/
+/*    background-color: black;*/
+/*    transition: width 1s linear;*/
+/*    -moz-transition: width 1s linear;*/
+/*    -o-transition: width 1s linear;*/
+/*    -webkit-transition: width 1s linear;*/
+/*    cursor: pointer;*/
+/*    -webkit-appearance: none;*/
+/*    appearance: none;*/
+/*}*/
+
+/*.progress-duration-meter{*/
+/*    display: flex;*/
+/*    justify-content: space-between;*/
+/*    font-size: 0.5rem;*/
+/*}*/

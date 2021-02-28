@@ -1,0 +1,27 @@
+.searchbar-container{
+    margin:0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: Arial, "Helvetica Neue", sans-serif;
+}
+
+.searchbar-input{
+    margin-top: 20px;
+    width: 350px;
+    height: 40px;
+    font-size: 20px;
+    padding-left: 20px;
+}
+
+.searchbar-radio-button input{
+    margin: 10px 10px;
+}
+
+.searchbar-radio-button{
+    margin-top: 5px;
+    margin-bottom: 25px;
+    font-size: 0.8em;
+}

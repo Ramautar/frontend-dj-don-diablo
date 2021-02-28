@@ -1,0 +1,42 @@
+.user-info-container{
+    /*border: 1px red solid;*/
+    height: 145px;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.user-info-container p{
+    padding: 1px;
+}
+
+.user-info-email{
+    margin: 10px 0;
+    color: blue;
+}
+
+.user-profile-button{
+    margin-bottom: auto;
+    width: 80px;
+    padding: 5px;
+    font-size: 0.9em;
+}
+
+.user-edit-container{
+    margin-top: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+nav a,
+nav a:link {
+    color: #E3FBFF;
+    text-decoration: none;
+    cursor: pointer;
+    list-style: none;
+}
+
+.user-authorization{
+    margin-left: 50px;
+}

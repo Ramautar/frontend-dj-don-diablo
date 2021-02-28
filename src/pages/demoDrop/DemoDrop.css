@@ -1,0 +1,142 @@
+.drop-demo-container{
+    height: 100vh;
+    width: 100vw;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: #dddddd;
+}
+
+.drop-demo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 30%;
+    height: 400px;
+    box-shadow: 3px 2px 22px 1px rgba(0, 0, 0, 0.24);
+    border: 2px solid;
+    border-image-slice: 1;
+    border-image-source: linear-gradient(to left, #743ad5, #d53a9d);
+    background-color: #f6f6f6;
+
+}
+
+.drop-demo-form{
+    width: 85%;
+    height: 400px;
+
+}
+
+.drop-demo-form h2{
+    margin-top: 20px;
+    text-align: center;
+}
+
+.drop {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+    margin-top: 20px;
+
+
+}
+
+.text-input{
+    outline: none;
+    display: block;
+    width: 100%;
+    padding: 7px;
+    border: none;
+    margin-bottom: 10px;
+    height: 23px;
+}
+
+textarea{
+    margin-top: 15px;
+    width: 100%;
+    font-size: 0.85em;
+    padding:5px;
+}
+
+
+.drop-demo-btn {
+    margin-top: 20px;
+}
+
+.music-player{
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.file-upload{
+    display: none;
+}
+
+.upload-mp3{
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    width: 100%;
+    margin: 10px 0;
+}
+
+.logo-image{
+    width: 40px;
+    border: none;
+    transition: all 0.3s ease-in-out;
+}
+.logo-image:hover{
+    transform: scale(1.1);
+    transition: all 0.3s ease-in-out;
+}
+
+.logo-image:active{
+    transform: scale(0.95);
+}
+
+.file-upload-txt{
+    padding: 5px 10px;
+    border-bottom: lightgray 1px solid;
+    font-size: 0.8em;
+    font-style: italic;
+    color: #6B6AE2;
+    width: 80%;
+}
+
+.drop-demo-input{
+    color: black;
+}
+
+.demo-drop-error{
+    width: 100%;
+    height: 20px;
+    /*border: red 1px solid;*/
+    margin-top: 10px;
+    color: red;
+    font-size: 0.8em;
+    text-align: center;
+}
+
+.successful-upload{
+    color: green;
+}
+
+.demo-drop-file-info{
+    border: 1px solid black;
+    width: 20%;
+    height: 100px;
+    font-size: 0.7em;
+    padding:10px;
+    border-radius: 5px;
+}
+
+.file-info-title{
+    text-align: center;
+    margin-bottom: 10px;
+}

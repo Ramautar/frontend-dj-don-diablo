@@ -1,0 +1,45 @@
+.song-list{
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.paginationButtons{
+    margin-top: 10px;
+    width: 80%;
+    height: 30px;
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    font-size: 0.7em;
+}
+
+.paginationButtons a{
+    padding: 5px;
+    margin: 8px;
+    border-radius: 5px;
+    border: blue 1px solid;
+    color: blue;
+    cursor: pointer;
+    background-color: white;
+}
+
+.paginationActive a{
+    color: white;
+    background-color: blue;
+}
+
+.paginationDisabled a{
+    color: white;
+    background-color: #1a1a1a;
+    cursor: unset;
+}
+
+.my-demo-empty{
+    text-align: center;
+    color: #E3FBFF;
+    width: 500px;
+    margin-top: 50px;
+}

@@ -1,0 +1,98 @@
+.song-list-item-container{
+    display: flex;
+}
+
+.song-list-input{
+    display: none;
+}
+
+.song-item {
+    width: 470px;
+    background-color: white;
+    box-shadow: 10px 5px 5px black;
+    margin: 5px;
+    font-size: 0.8em;
+    height: 40px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    border-radius: 7px;
+    border: 2px solid;
+    border-image-slice: 1;
+    border-image-source: linear-gradient(to left, #743ad5, #d53a9d);
+}
+
+.song-position{
+    padding: 0;
+    margin: 0;
+    border-right: #1a1a1a 1px solid;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 50px;
+    font-size: 1.5em;
+    color: #6B6AE2;
+}
+.song-container{
+    width: 43%;
+    margin-left: 10px;
+}
+
+.song-title{
+    font-weight: bold;
+    margin-bottom: 0;
+}
+
+.song-info{
+    margin-top: 5px;
+    font-size: 0.8em;
+}
+
+.my-demo-play-button{
+    margin-left: 20px;
+    cursor: pointer;
+}
+
+.my-demo-play{
+    margin-left: 10px;
+    font-size: 1.3em;
+    color: black;
+}
+
+.my-demo-status{
+    width: 17%;
+    border: black 1px solid;
+    border-radius: 4px;
+    margin-left: 5px;
+    height: 30px;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.pending {
+    background-color: rgb(252, 186, 3);
+    text-transform: capitalize;
+    color: black;
+}
+
+.reviewed{
+    background-color: green;
+    text-transform: capitalize;
+    color: black;
+}
+
+.selected{
+    background-color: grey;
+    color: white;
+}
+
+.loading {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 10px;
+    color: #E3FBFF;
+}

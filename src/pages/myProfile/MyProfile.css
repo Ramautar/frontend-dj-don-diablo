@@ -1,0 +1,72 @@
+.my-profile-page{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url("../../assets/my_info_background2.jpg");
+    background-repeat: no-repeat;
+    background-position-y: bottom;
+    background-size: 100% 100%;
+}
+
+.my-profile-info{
+    width: 20%;
+    height: 400px;
+    /*border: 1px solid red;*/
+    display: flex;
+    /*justify-content: center;*/
+    /*align-content: center;*/
+    flex-direction: column;
+    padding: 20px;
+
+}
+
+.my-profile-separator{
+    width: 7%;
+    height: 200px;
+}
+
+.my-profile-container{
+    margin-top: 50px;
+    height: 440px;
+    width: 30%;
+    border: 3px solid;
+    border-image-slice: 1;
+    border-image-source: linear-gradient(to left, #743ad5, #d53a9d);
+    box-shadow: rgba(0, 0, 0, 0.25) 0 54px 55px,
+    rgba(0, 0, 0, 0.12) 0 -12px 30px,
+    rgba(0, 0, 0, 0.12) 0 4px 6px,
+    rgba(0, 0, 0, 0.17) 0 12px 13px,
+    rgba(0, 0, 0, 0.09) 0 -3px 5px;
+    background-color: black;
+    opacity: 0.80;
+    color: white;
+}
+
+.my-profile-title{
+    text-align: center;
+    margin-top: 30px;
+}
+
+.my-profile-empty{
+    width: 20%;
+    height: 400px;
+    /*border: 1px solid red;*/
+
+}
+
+.my-profile-logo{
+    height: 100px;
+    margin-bottom: 15px;
+    background-image: url("../../assets/my_info_background1.jpg");
+    background-repeat: no-repeat;
+    background-position-y: bottom;
+    background-size: 100% 87%;
+    box-shadow: rgba(0, 0, 0, 0.25) 0 54px 55px,
+    rgba(0, 0, 0, 0.12) 0 -12px 30px,
+    rgba(0, 0, 0, 0.12) 0 4px 6px,
+    rgba(0, 0, 0, 0.17) 0 12px 13px,
+    rgba(0, 0, 0, 0.09) 0 -3px 5px;
+}
+

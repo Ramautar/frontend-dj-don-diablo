@@ -1,0 +1,24 @@
+.mp3-info-container{
+    width: 250px;
+    height: 120px;
+    /*border: 1px solid black;*/
+    padding: 10px;
+    font-size: 0.8em;
+    border-radius: 4px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0 54px 55px,
+    rgba(0, 0, 0, 0.12) 0 -12px 30px,
+    rgba(0, 0, 0, 0.12) 0 4px 6px,
+    rgba(0, 0, 0, 0.17) 0 12px 13px,
+    rgba(0, 0, 0, 0.09) 0 -3px 5px;
+}
+
+.mp3-info-title{
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.comment{
+    margin: 10px 0;
+    font-size: 1em;
+    font-weight: bold;
+}

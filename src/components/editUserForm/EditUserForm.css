@@ -1,0 +1,66 @@
+.edit-user-form{
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.edit-form-input{
+    color: black;
+    padding: 15px 10px;
+    margin: auto;
+}
+
+.modify-profile-button{
+    width: 110px;
+    height: 35px;
+    padding: 5px;
+
+}
+
+.modify-button-container {
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.user-authorities-checkbox{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: row;
+    width: 85%;
+    margin: 25px 0;
+    font-size: 0.9em;
+}
+
+.authority-label{
+    width: 100px;
+    text-align: center;
+    font-size: 0.9em;
+    color: white;
+}
+
+.authority-checkbox{
+    height: 0.8em;
+    display: inline;
+    margin: 0;
+}
+
+.edit-form-input{
+    color: #E3FBFF;
+}
+
+.edit-form-upload{
+    color:green;
+    font-size: 0.8em;
+}
+
+.upload-msg{
+    margin-top: 17px;
+    height: 20px;
+    text-align: center;
+
+}

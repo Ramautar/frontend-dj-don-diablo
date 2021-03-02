@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fcce6d48-cbf9-4625-9132-dc0b7d89cdd3" name="Default Changelist" comment="" />
+    <list default="true" id="fcce6d48-cbf9-4625-9132-dc0b7d89cdd3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/readme_img/administrator_page.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/readme_img/drop-demo_page.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/readme_img/edit-profile_page.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/readme_img/home_page.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/readme_img/login_page.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/readme_img/my-demo_page.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/readme_img/my-profile_page.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/readme_img/sign-up_page.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -150,6 +165,8 @@
       <workItem from="1614494539469" duration="6665000" />
       <workItem from="1614551538171" duration="698000" />
       <workItem from="1614594361424" duration="853000" />
+      <workItem from="1614683331905" duration="1706000" />
+      <workItem from="1614685103705" duration="2639000" />
     </task>
     <task id="LOCAL-00001" summary="Front-end Eind Project">
       <created>1614551745861</created>
